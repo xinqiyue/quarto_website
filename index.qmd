@@ -1,0 +1,12 @@
+---
+title: "Welcome to my website_quarto"
+---
+Hi, my name is gloria. I am a student at university of toronto, in major of computer science and statistics
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
